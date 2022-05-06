@@ -9,6 +9,7 @@ Exercícios e progresso da parte 2 do curso da USP de Python.
 |  1   | Matrizes | 100%
 |  2   | Strings |
 |  3  | POO |
-|  2   | Algoritmos de Busca e Ordenação|
-|  2   | Recursão |
-|  2   | Módulo Extra |
+|  4   | Algoritmos de Busca e Ordenação|
+|  5   | Algoritmos de Busca e Ordenação. Análise de Desempenho |
+|  6   | Recursão |
+|  7   | Módulo extra - Scrapy |
