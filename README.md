@@ -1,6 +1,6 @@
 # python-usp
 
-<img src=¨https://logodownload.org/wp-content/uploads/2014/12/usp-logo-1.png¨ />
+<img src="http://scs.usp.br/identidadevisual/wp-content/uploads/2013/08/usp-logo-png.png" width="200">
 Exercícios e progresso da parte 2 do curso da USP de Python.
 
 
