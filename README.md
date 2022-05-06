@@ -1,10 +1,12 @@
 # python-usp
 
 <img src="http://scs.usp.br/identidadevisual/wp-content/uploads/2013/08/usp-logo-png.png" width="200">
-Exercícios e progresso da parte 2 do curso da USP de Python.
 
-Plataforma: Coursera
-IDE utilizada: PyCharm (JetBrains)
+## Exercícios e progresso da parte 2 do curso da USP de Python.
+
+### Plataforma: Coursera
+
+### IDE utilizada:  PyCharm (JetBrains)
 
 | Semana | Aula | Nota| 
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
