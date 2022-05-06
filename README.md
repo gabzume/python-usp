@@ -11,4 +11,4 @@ Exercícios e progresso da parte 2 do curso da USP de Python.
 |  3  | POO |
 |  2   | Algoritmos de Busca e Ordenação|
 |  2   | Recursão |
-|  2   | Strings |
+|  2   | Módulo Extra |
