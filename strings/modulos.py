@@ -13,7 +13,3 @@ def fazAlgo(string):
 
 if __name__ == "__main__":
     print(fazAlgo("teste"))
-    print(fazAlgo("o ovo do avestruz"))
-    print(fazAlgo("A CASA MUITO ENGRAÇADA"))
-    print(fazAlgo("A TELEvisão queBROU"))
-    print(fazAlgo("A Vaca Amarela"))
