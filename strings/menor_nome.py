@@ -1,10 +1,8 @@
-nomes = ['ana', 'giovanna', 'melissa', 'gustavo']
+nomes = ["LU   ", " josé ", "PAULO", "Catarina"]
 
-def menorNome(lista1):
-    for i in lista1:
-        menor = min(lista1)
-        alt = menor.capitalize().strip()
-    return alt
+def print_menor_nome(names):
+    cleaned_names = [n.strip().lower() for n in names]
+    shortest_name = min(cleaned_names, key=len)
+    print(f"{shortest_name.capitalize()}")
 
-
-print(menorNome(nomes))
+print_menor_nome(nomes)
