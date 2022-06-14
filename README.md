@@ -13,7 +13,7 @@
 |  1   | Matrizes | 100%
 |  2   | Strings | 100% 
 |  3  | POO | 100%
-|  4   | Algoritmos de Busca e Ordenação|
+|  4   | Algoritmos de Busca e Ordenação| 100%
 |  5   | Algoritmos de Busca e Ordenação. Análise de Desempenho |
 |  6   | Recursão |
 |  7   | Módulo extra - Scrapy |
