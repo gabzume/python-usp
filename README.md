@@ -15,5 +15,5 @@
 |  3  | POO | 100%
 |  4   | Algoritmos de Busca e Ordenação| 100%
 |  5   | Algoritmos de Busca e Ordenação. Análise de Desempenho | 100%
-|  6   | Recursão | 100 %
+|  6   | Recursão | 100%
 |  7   | Módulo extra - Scrapy | 
