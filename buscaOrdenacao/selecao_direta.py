@@ -7,18 +7,25 @@ class Ordenador:
                 if lista[j] < lista[pos_minimo]:
                     pos_minimo = j  # se o elemento de j e menor que o minimo, assume um novo valor, o de j
                     lista[i], lista[pos_minimo] = lista[pos_minimo], lista[i]
-        return lista
-
-    def bolha(self, lista):
-        fim = len(lista)
-        for i in range(fim-1, 0, -1):
-            for j in range(i):
-                if lista[j] > lista[j+1]:
-                    lista[j], lista[j+1] = lista[j+1], lista[j]
             return lista
 
-lista = [1, 6, 8, 9, 10]
+    def Bolha(self, lista):
+        fim = len(lista)
+        for i in range(fim - 1, 0, -1):
+            for j in range(i):
+                if lista[j] > lista[j + 1]:
+                    lista[j], lista[j + 1] = lista[j + 1], lista[j]
 
-o = Ordenador()
+    def BolCurta(self, lista):
+        fim = len(lista)
+        for i in range(fim - 1, 0, -1):
+            trocou = False
+            for j in range(i):
+                if lista[j] > lista[j + 1]:
+                    lista[j], lista[j + 1] = lista[j + 1], lista[j]
+                    trocou = True
+            if not trocou:
+                return
 
-o.bolha(lista)
+
+
